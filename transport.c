@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define LEADER_LENGTH 300
+#define LEADER_LENGTH 3000
 #define HZ 44100
 
 double onePeriod(int frequency, double inRemainder)
